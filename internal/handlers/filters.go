@@ -1,1 +1,6 @@
-// Placeholder for filters.go
+package handlers
+
+// Filters handler placeholders.
+
+// This file ensures the handlers package is visible to `go list`.
+var _ = 0
