@@ -1,1 +1,1 @@
-# groupie-tracker
+// Placeholder for README.md
