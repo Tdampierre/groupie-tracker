@@ -1,0 +1,1 @@
+// Placeholder for geoloc_service.go
